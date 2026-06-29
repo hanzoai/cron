@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="cron" width="880"></p>
+
 # Hanzo Cron
 
 Scheduled jobs and delayed execution engine for reliable, distributed task scheduling.
