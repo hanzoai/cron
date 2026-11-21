@@ -2,6 +2,8 @@
 
 # Hanzo Cron
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/cron&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/cron&ref=main&action=edit)
+
 Scheduled jobs and delayed execution engine for reliable, distributed task scheduling.
 
 ## Features
